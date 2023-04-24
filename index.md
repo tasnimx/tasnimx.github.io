@@ -2,7 +2,7 @@
 
 ---
 
-### 📊 Dashboard
+## 📊 Dashboard
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🐍 Python
+## 🐍 Python
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -26,7 +26,7 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 🗄️ SQL
+## 🗄️ SQL
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -35,7 +35,7 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 📃 Paper
+## 📃 Paper
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
