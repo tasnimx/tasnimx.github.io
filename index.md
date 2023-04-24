@@ -1,4 +1,4 @@
-## My Projects
+## 📋 My Projects
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### 📰 Paper
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:12px">2023</a></p>
 <!-- Remove above link if you don't want to attibute -->
