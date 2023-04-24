@@ -2,15 +2,15 @@ title: tasnim # your name (or website title) here
 logo: 🍰 #"/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello!
-  <br>
+  <br><br>
   Welcome to my portfolio site, where I showcase my side projects that primarily involve working with large data sets, identifying trends, 
   and providing data-driven solutions. 
-  <br>
+  <br><br>
   I use <b> Python, Power BI, Tableau, and SQL </b>, 
   to turn complex data into actionable insights. 
-  <br>
-  Let's unlock the full potential of your data and explore new possibilities together!
   <br><br>
+  Let's unlock the full potential of your data and explore new possibilities together!
+  <br><br><br><br>
   <a href="https://www.linkedin.com/in/tasnimnaim/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
