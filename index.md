@@ -1,8 +1,8 @@
-## 📋 My Projects
+# 📋 My Projects
 
 ---
 
-### Category Name 1 
+### 📊 Dashboard
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,25 @@
 
 ---
 
-### 📰 Paper
+### 🐍 Python
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 🗄️ SQL
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 📃 Paper
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
