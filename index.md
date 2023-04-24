@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:12px">2023</p>
+<p style="font-size:12px"><!-- Placeholder for footer --></p>
 <!-- Remove above link if you don't want to attibute -->
