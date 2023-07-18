@@ -12,7 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Let's unlock the full potential of data!
   <br><br><br><br>
-  <a href="https://www.linkedin.com/in/tasnimnaim/">LinkedIn Profile</a> 
+  <li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
+<a href="https://www.linkedin.com/in/tasnimnaim/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
