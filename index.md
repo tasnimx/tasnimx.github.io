@@ -1,4 +1,4 @@
-<p style="background-image: url('/images/bg-grain.jpg?raw=true');">
+
 
 # My Projects
 
