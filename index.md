@@ -40,11 +40,11 @@
 ## 📃 Paper
 
 - [Predicting the Early Stage of Diabetes and Finding the Association of the Symptoms](https://www.researchgate.net/publication/359756759_Predicting_the_Early_Stage_of_Diabetes_and_Finding_the_Association_of_the_Symptoms)
-- [Project 2 Title](http://example.com/)
+<!--- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+-->
 ---
 
 
